@@ -1,6 +1,8 @@
 <h1 align="center">Pedro Igor Martins dos Reis</h1>
 
-![Banner](https://raw.githubusercontent.com/pigor12/pigor12/main/Banner.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pigor12/pigor12/main/Banner.png" alt="Banner's Pedro"/>
+</p>
 
 ## Sobre mim
 Olá! Sou um entusiasta de tecnologia com conhecimentos em várias linguagens de programação, incluindo C, C#, Java, HTML e CSS. Atualmente, trabalho como Helpdesk na FIEMG, onde ganhei experiência valiosa no suporte e resolução de problemas técnicos.
