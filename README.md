@@ -4,6 +4,10 @@
 Olá! Sou um entusiasta de tecnologia com conhecimentos em várias linguagens de programação, incluindo C, C#, Java, HTML e CSS. Atualmente, trabalho como Helpdesk na FIEMG, onde ganhei experiência valiosa no suporte e resolução de problemas técnicos.
 Além disso, sou estudante de Engenharia de Computação (6º período) e Segurança da Informação (2º período). Estou sempre em busca de aprimorar meus conhecimentos e aplicá-los no mercado de trabalho.
 
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pigor12&layout=compact&langs_count=7&theme=merko"/>
+</div>
+    
 ## Contato
 
 Sinta-se à vontade para entrar em contato comigo por e-mail ou através das redes sociais listadas abaixo. Estou sempre aberto a colaborações, discussões e oportunidades interessantes.
